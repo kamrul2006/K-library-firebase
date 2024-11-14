@@ -1,0 +1,290 @@
+[
+  {
+    "bookId": "11",
+    "bookName": "Pather Panchali",
+    "author": "Bibhutibhushan Bandyopadhyay",
+    "review": "A poignant and vivid depiction of rural Bengal and the struggles of a family in poverty.",
+    "totalPages": 300,
+    "rating": 4.9,
+    "category": "Novel",
+    "tags": [
+      "Classic",
+      "Bengal"
+    ],
+    "publisher": "Mitro & Ghosh Publishers",
+    "yearOfPublishing": 1929,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN6bWkh0atKpWbntidTqP0xYz3TYIMwbbQw&s"
+  },
+  {
+    "bookId": "12",
+    "bookName": "Shesher Kobita",
+    "author": "Rabindranath Tagore",
+    "review": "A beautiful and lyrical novel exploring love and relationships in a poetic style.",
+    "totalPages": 180,
+    "rating": 4.8,
+    "category": "Romantic Novel",
+    "tags": [
+      "Poetry",
+      "Romance"
+    ],
+    "publisher": "Visva-Bharati Publishing",
+    "yearOfPublishing": 1929,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWiSHb9MCzHn_bvt_o7jzNfJYFg-PWfi54Iw&s"
+  },
+  {
+    "bookId": "14",
+    "bookName": "Kalbela",
+    "author": "Shirshendu Mukhopadhyay",
+    "review": "A story set during turbulent political times, highlighting the struggles of love and ideals.",
+    "totalPages": 450,
+    "rating": 4.6,
+    "category": "Historical Fiction",
+    "tags": [
+      "Politics",
+      "History"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 1984,
+    "image": "https://static1.eboighar.com/thumbimages/Books/book_91822015-12-15_1450162961.jpg"
+  },
+  {
+    "bookId": "15",
+    "bookName": "Devi Chaudhurani",
+    "author": "Bankim Chandra Chattopadhyay",
+    "review": "A tale of a young woman’s transformation into a strong and independent figure in a feudal society.",
+    "totalPages": 320,
+    "rating": 4.5,
+    "category": "Adventure",
+    "tags": [
+      "Independence",
+      "Adventure"
+    ],
+    "publisher": "Sahitya Academy",
+    "yearOfPublishing": 1884,
+    "image": "https://bengaliebook.com/wp-content/uploads/2021/06/%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%80-%E0%A6%9A%E0%A7%8C%E0%A6%A7%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80-724x1024.jpg"
+  },
+  {
+    "bookId": "16",
+    "bookName": "Srikanta",
+    "author": "Sarat Chandra Chattopadhyay",
+    "review": "A novel following the wanderings and experiences of a young man as he meets diverse characters.",
+    "totalPages": 360,
+    "rating": 4.8,
+    "category": "Adventure",
+    "tags": [
+      "Journey",
+      "Society"
+    ],
+    "publisher": "Sarat Book House",
+    "yearOfPublishing": 1917,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnTxsWd1qR0OM293T_VQFGNfLBhoRNdJsNg&s"
+  },
+  {
+    "bookId": "17",
+    "bookName": "Parineeta",
+    "author": "Sarat Chandra Chattopadhyay",
+    "review": "A story of innocent love entangled in family and societal conflicts, exploring emotions and ethics.",
+    "totalPages": 200,
+    "rating": 4.7,
+    "category": "Romance",
+    "tags": [
+      "Society",
+      "Tradition"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 1914,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQg0-Va0CGFwSucYqOVb_zK5PXaotaJh3Fw&s"
+  },
+  {
+    "bookId": "18",
+    "bookName": "Arogya Niketan",
+    "author": "Tarashankar Bandopadhyay",
+    "review": "An exploration of the human psyche, health, and the interplay of life and death in a village.",
+    "totalPages": 310,
+    "rating": 4.6,
+    "category": "Philosophical",
+    "tags": [
+      "Village Life",
+      "Philosophy"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 1953,
+    "image": "https://bengaliebook.com/wp-content/uploads/2022/07/%E0%A6%86%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%A4%E0%A6%A8-724x1024.webp"
+  },
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co.com/khHN7Pk/9780143454212.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 192,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Fiction",
+      "Romance"
+    ],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Drama",
+      "Social Justice"
+    ],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Political"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Young Adult",
+      "Identity"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": "Classic",
+    "tags": [
+      "Romance",
+      "Satire"
+    ],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Epic"
+    ],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 7,
+    "bookName": "Harry Potter",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 309,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Young Adult"
+    ],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 177,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Philosophical",
+      "Adventure"
+    ],
+    "publisher": "HarperCollins",
+    "yearOfPublishing": 1988
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 316,
+    "rating": 4.2,
+    "category": "Mystery",
+    "tags": [
+      "Suspense",
+      "Psychological"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 10,
+    "bookName": "Agni Bina",
+    "author": "Kazi Nazrul Islam",
+    "image": "https://d25swln94uq8y4.cloudfront.net/media/book_th/Agnibeena.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 316,
+    "rating": 4.2,
+    "category": "Poetry",
+    "tags": [
+      "Suspense",
+      "Social Justice"
+    ],
+    "publisher": "Kamrul Books",
+    "yearOfPublishing": 2000
+  },
+  {
+    "bookId": "19",
+    "bookName": "Shahid Titumir",
+    "author": "Mosharof Hossen Khan",
+    "review": "An inspiring and historically significant story of rebellion and resilience.",
+    "totalPages": 270,
+    "rating": 4.7,
+    "category": "Historical Fiction",
+    "tags": [
+      "Revolution",
+      "Inspiration"
+    ],
+    "publisher": "Karuna Prakashani",
+    "yearOfPublishing": 1964,
+    "image": "https://wafilife-media.wafilife.com/uploads/2023/02/Titumir-02-01.jpg"
+  }
+]
